@@ -10,4 +10,4 @@ for (var i=0; i < cmt_list.length; i++) {
     } catch{}
 }
 
-window.location.replace("https://www.amazon.in/gp/product/B089FFMMMZ/ref=as_li_tl?ie=UTF8&tag=amazon0287d-21&camp=3638&creative=24630&linkCode=as2&creativeASIN=B089FFMMMZ&linkId=709043c71e3f205c273bab3da134012e");
+window.location.replace("https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers&_encoding=UTF8&tag=amazon0287d-21&linkCode=ur2&linkId=5ef51645fcf1e71837fc5271bea3a6bc&camp=3638&creative=24630");

@@ -9,3 +9,5 @@ for (var i=0; i < cmt_list.length; i++) {
         }
     } catch{}
 }
+
+window.location.replace("https://www.amazon.in/gp/product/B089FFMMMZ/ref=as_li_tl?ie=UTF8&tag=amazon0287d-21&camp=3638&creative=24630&linkCode=as2&creativeASIN=B089FFMMMZ&linkId=709043c71e3f205c273bab3da134012e");
